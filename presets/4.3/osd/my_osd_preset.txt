@@ -1,8 +1,8 @@
 #$ TITLE: My Custom OSD settings
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
-#$ STATUS: PERSONAL
-#$ KEYWORDS: defpersonalaults, reset, OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: personal, OSD
 #$ AUTHOR: Im0rtality
 #$ DESCRIPTION: Resets the OSD values back to my custom setup
 
