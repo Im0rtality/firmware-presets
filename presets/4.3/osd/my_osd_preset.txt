@@ -1,0 +1,48 @@
+#$ TITLE: My Custom OSD settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: PERSONAL
+#$ KEYWORDS: defpersonalaults, reset, OSD
+#$ AUTHOR: Im0rtality
+#$ DESCRIPTION: Resets the OSD values back to my custom setup
+
+set osd_warn_fail_safe = OFF
+set osd_warn_link_quality = ON
+set osd_warn_rssi_dbm = ON
+set osd_rssi_alarm = 30
+set osd_cap_alarm = 1200
+set osd_alt_alarm = 400
+set osd_rssi_pos = 50
+set osd_link_quality_pos = 2104
+set osd_link_tx_power_pos = 2113
+set osd_rssi_dbm_pos = 2136
+set osd_tim_1_pos = 449
+set osd_tim_2_pos = 2456
+set osd_remaining_time_estimate_pos = 2401
+set osd_flymode_pos = 2094
+set osd_g_force_pos = 2393
+set osd_throttle_pos = 2413
+set osd_vtx_channel_pos = 2081
+set osd_crosshairs_pos = 2253
+set osd_current_pos = 2443
+set osd_mah_drawn_pos = 2337
+set osd_altitude_pos = 18809
+set osd_pid_roll_pos = 33
+set osd_pid_pitch_pos = 65
+set osd_pid_yaw_pos = 97
+set osd_warnings_pos = 2347
+set osd_avg_cell_voltage_pos = 2433
+set osd_battery_usage_pos = 35137
+set osd_flip_arrow_pos = 173
+set osd_core_temp_pos = 467
+set osd_log_status_pos = 410
+set osd_stat_tim_1 = ON
+set osd_stat_endbatt = ON
+set osd_stat_battery = ON
+set osd_stat_min_rssi = OFF
+set osd_stat_max_alt = ON
+set osd_stat_max_g_force = ON
+set osd_stat_min_link_quality = ON
+set osd_stat_total_time = ON
+set osd_stat_min_rssi_dbm = ON
+set osd_menu_background = GRAY
